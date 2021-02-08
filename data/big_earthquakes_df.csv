@@ -1,0 +1,54 @@
+,Unnamed: 0,time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource,state,date
+335,335,12:07:37,36.4743333,-81.0865,4.14,5.1,mw,34.0,50.0,0.4521,0.38,se,se60324281,2020-10-22T16:47:06.759Z,Virginia-North Carolina border region,earthquake,0.4,1.81,,0.0,reviewed,se,se,er region,2020-08-09
+1172,1172,09:14:43,35.6123333,-84.73200000000001,7.87,4.4,mw,32.0,40.0,,0.14,se,se60247871,2020-03-21T11:24:59.986Z,"12km NNE of Decatur, Tennessee",earthquake,0.22,0.66,,0.0,reviewed,se,se,Tennessee,2018-12-12
+3780,3780,09:58:43,36.8733333,-89.42266670000002,7.81,3.9,mw,65.0,38.0,,0.19,nm,nm609348,2016-04-07T19:21:56.169Z,"8km SW of Charleston, Missouri",earthquake,0.18,0.46,0.042,3.0,reviewed,nm,nm, Missouri,2012-02-21
+5515,5515,11:35:11,36.1501667,-89.4735,15.02,4.0,mw,35.0,57.0,0.03105,0.07,nm,nm605762,2016-04-26T21:01:22.665Z,"12km S of Ridgely, Tennessee",earthquake,0.2,0.6,0.457,9.0,reviewed,nm,nm,Tennessee,2005-06-02
+5541,5541,12:37:31,35.835,-90.147,10.0,4.2,mw,32.0,65.0,0.05089,0.08,nm,nm605742,2016-04-26T20:59:56.017Z,"5km SSE of Manila, Arkansas",earthquake,0.3,0.8,0.316,2.0,reviewed,nm,nm, Arkansas,2005-05-01
+5600,5600,14:04:53,35.7591667,-90.2498333,15.48,4.1,mw,36.0,63.0,,0.09,nm,nm605688,2016-04-26T20:48:41.301Z,"6km E of Caraway, Arkansas",earthquake,0.4,0.5,0.251,16.0,reviewed,nm,nm, Arkansas,2005-02-10
+5980,5980,12:29:34,36.8788333,-88.9958333,2.5,4.0,mw,42.0,50.0,0.1184,0.29,nm,nm605194,2020-02-12T19:06:53.281Z,"1km NE of Bardwell, Kentucky",earthquake,1.2,1.3,0.363,5.0,reviewed,nm,nm, Kentucky,2003-06-06
+6004,6004,04:56:21,35.945,-89.9161667,23.68,4.0,md,31.0,75.0,0.08369,0.07,nm,nm605172,2020-02-12T19:08:10.361Z,"1km N of Blytheville, Arkansas",earthquake,0.3,0.6,0.396,15.0,reviewed,nm,nm, Arkansas,2003-04-30
+6013,6013,08:59:39,34.4938333,-85.6298333,19.81,4.6,mw,21.0,154.0,,0.07,se,se605341,2020-07-10T14:36:05.655Z,"9km NE of Fort Payne, Alabama",earthquake,0.8,0.9,,,reviewed,se,se,", Alabama",2003-04-29
+6219,6219,01:08:21,34.735,-86.245,5.0,3.9,mblg,8.0,,,0.32,us,usp000au76,2020-02-12T19:13:00.972Z,Alabama,earthquake,,,,,reviewed,us,us,Alabama,2001-12-08
+7003,7003,08:50:14,36.981,-83.01799999999999,0.0,3.9,mb,,,,1.4,us,usp0007gc1,2014-11-07T01:00:18.132Z,eastern Kentucky,explosion,,,,6.0,reviewed,us,us, Kentucky,1996-04-19
+7251,7251,01:18:54,36.575,-89.825,11.2,4.5,md,,,,,nm,nm603867,2020-07-10T14:26:48.086Z,"12km E of Malden, Missouri",earthquake,,,,,reviewed,nm,nm, Missouri,1991-05-04
+7345,7345,21:01:17,36.794,-83.34,10.0,4.0,mblg,,,,0.6,us,usp0004djc,2014-11-07T00:46:57.599Z,eastern Kentucky,earthquake,,,,,reviewed,us,bla, Kentucky,1990-08-17
+7564,7564,16:47:51,36.088,-89.775,11.7,4.3,md,,,,,nm,nm603471,2020-08-25T22:29:27.980Z,"4km E of Steele, Missouri",earthquake,,,,,reviewed,nm,nm, Missouri,1989-04-27
+7738,7738,00:04:56,36.953,-89.15899999999998,11.2,4.3,md,,,,,nm,nm603237,2020-04-16T19:37:31.400Z,"6km SSE of Cairo, Illinois",earthquake,,,,,reviewed,nm,nm, Illinois,1987-09-29
+7815,7815,21:17:13,36.576,-89.735,9.5,4.1,md,,,,,nm,nm603134,2016-04-14T17:50:45.098Z,"10km W of Lilbourn, Missouri",earthquake,,,,,reviewed,nm,nm, Missouri,1987-06-13
+7850,7850,07:29:30,35.57,-84.21,19.5,4.2,md,,,,,se,se603077,2020-07-10T14:35:55.193Z,"3km SE of Vonore, Tennessee",earthquake,,,,,reviewed,se,se,Tennessee,1987-03-27
+8317,8317,11:54:26,34.74,-85.16,5.0,4.2,md,,,,,se,se602423,2020-07-10T14:35:42.907Z,"11km ENE of LaFayette, Georgia",earthquake,,,,,reviewed,se,se,", Georgia",1984-10-09
+8852,8852,11:53:44,36.03,-89.18,22.8,4.0,md,,,,,nm,nm601510,2018-06-04T20:43:45.000Z,"11km SE of Newbern, Tennessee",earthquake,,,,,reviewed,nm,nm,Tennessee,1981-08-07
+9317,9317,04:12:16,36.17,-89.65,11.8,3.9,Unknown,,,,,nm,nm601007,2016-04-28T18:53:39.503Z,"2km S of Caruthersville, Missouri",earthquake,,,,,reviewed,nm,nm, Missouri,1979-06-11
+9856,9856,01:00:11,35.61,-90.48,15.0,4.23,mw,,,,,nm,nm600380,2018-02-05T19:26:03.000Z,"7km SSE of Trumann, Arkansas",earthquake,,,,0.0,reviewed,nm,nm, Arkansas,1976-03-25
+9857,9857,00:41:20,35.59,-90.48,15.0,4.62,mw,,,,,nm,nm600379,2020-07-07T22:38:07.961Z,"8km NW of Marked Tree, Arkansas",earthquake,,,,0.0,reviewed,nm,nm, Arkansas,1976-03-25
+9884,9884,06:20:39,36.883,-83.825,5.0,4.0,mb,,,,,us,usp0000ejd,2020-08-26T00:46:39.934Z,eastern Kentucky,earthquake,,,,,reviewed,us,us, Kentucky,1976-01-19
+10001,10001,22:40:27,36.54,-89.68,2.0,4.3,mlg,,,,,nm,nm600223,2020-07-10T14:25:53.938Z,"8km SW of Lilbourn, Missouri",earthquake,,,,,reviewed,nm,nm, Missouri,1975-06-13
+10188,10188,06:52:18,36.71,-89.39,1.0,4.3,mb,,,,,us,usp00006b7,2020-08-25T23:44:21.750Z,Missouri,earthquake,,,,,reviewed,j,us,Missouri,1974-05-13
+10193,10193,01:12:37,36.2,-89.39,1.0,4.1,mb,,,,,us,usp00004v5,2014-11-06T23:21:22.320Z,Tennessee,earthquake,,,,,reviewed,j,us,Tennessee,1974-01-08
+10195,10195,07:48:41,35.799,-83.962,3.0,4.7,mb,,,,,us,usp00004c7,2020-07-10T19:57:44.872Z,eastern Tennessee,earthquake,,,,,reviewed,s,us,Tennessee,1973-11-30
+10200,10200,02:13:54,35.856,-89.947,14.0,4.01,mw,,,,,ushis,ushis3120,2018-06-04T20:43:45.000Z,Arkansas,earthquake,,,,,reviewed,ushis,stt,Arkansas,1970-11-17
+10201,10201,17:30:11,36.642,-90.05,9.0,4.66,mw,,,,,ushis,ushis2595,2018-06-04T20:43:45.000Z,Missouri,earthquake,,,,,reviewed,ushis,hrn,Missouri,1963-03-03
+10203,10203,06:43:30,36.374,-89.51100000000002,4.0,4.23,mw,,,,,ushis,ushis2536,2018-06-04T20:43:45.000Z,Tennessee,earthquake,,,,,reviewed,ushis,hrn,Tennessee,1962-02-02
+10204,10204,02:07:28,34.5,-80.2,,3.9,fa,,,,,ushis,ushis2418,2018-06-04T20:43:45.000Z,South Carolina,earthquake,,,,,reviewed,ushis,sc, Carolina,1959-10-27
+10206,10206,20:06:17,35.0,-83.5,,3.9,fa,,,,,ushis,ushis2273,2018-06-04T20:43:44.000Z,Tennessee-North Carolina border region,earthquake,,,,,reviewed,ushis,sc,er region,1957-11-24
+10208,10208,14:24:52,35.799,-82.14200000000002,5.0,4.0,fa,,,,,ushis,ushis2232,2018-06-04T20:43:44.000Z,North Carolina,earthquake,,,,,reviewed,ushis,sc, Carolina,1957-05-13
+10209,10209,04:12:44,36.914,-90.387,1.0,4.3,fa,,,,,ushis,ushis2111,2018-06-04T20:43:44.000Z,Missouri,earthquake,,,,,reviewed,ushis,sc,Missouri,1956-11-26
+10210,10210,13:35:51,36.445,-83.787,5.0,4.1,fa,,,,,ushis,ushis2101,2018-06-04T20:43:44.000Z,eastern Tennessee,earthquake,,,,,reviewed,ushis,sc,Tennessee,1956-09-07
+10211,10211,04:44:16,35.756,-89.803,16.0,4.0,fa,,,,,ushis,ushis2079,2018-06-04T20:43:44.000Z,Tennessee,earthquake,,,,,reviewed,ushis,dg,Tennessee,1956-01-29
+10212,10212,09:02:40,36.0,-89.5,,3.9,fa,,,,,ushis,ushis2025,2018-06-04T20:43:44.000Z,Tennessee,earthquake,,,,,reviewed,ushis,sc,Tennessee,1955-03-29
+10213,10213,07:24:40,36.073,-89.82700000000001,8.0,4.4,fa,,,,,ushis,ushis2012,2018-06-04T20:43:44.000Z,Missouri,earthquake,,,,,reviewed,ushis,sc,Missouri,1955-01-25
+10214,10214,03:25:00,36.6,-83.7,,4.3,fa,,,,,ushis,ushis1908,2018-06-04T20:43:44.000Z,eastern Kentucky,earthquake,,,,,reviewed,ushis,sc, Kentucky,1954-01-02
+10216,10216,03:34:29,35.41300000000001,-90.254,1.0,4.8,fa,,,,,ushis,ushis1210,2018-06-04T20:43:44.000Z,Arkansas,earthquake,,,,,reviewed,ushis,dg,Arkansas,1938-09-17
+10217,10217,00:47:27,36.95,-89.2,,4.7,fa,,,,,ushis,ushis1077,2018-06-04T20:43:44.000Z,Missouri,earthquake,,,,,reviewed,ushis,sc,Missouri,1934-08-20
+10218,10218,04:02:50,36.112,-82.82799999999997,5.0,4.5,lg,,,,,ushis,ushis794,2018-06-04T20:43:44.000Z,eastern Tennessee,earthquake,,,,,reviewed,ushis,dg,Tennessee,1928-11-03
+10219,10219,08:28:00,35.8,-90.4,,4.8,fa,,,,,ushis,ushis763,2018-06-04T20:43:44.000Z,Arkansas,earthquake,,,,,reviewed,ushis,bar,Arkansas,1927-05-07
+10221,10221,03:05:00,36.0,-90.0,,4.5,fa,,,,,ushis,ushis700,2018-06-04T20:43:44.000Z,Arkansas,earthquake,,,,,reviewed,ushis,sc,Arkansas,1924-01-01
+10222,10222,17:10:00,35.5,-90.4,,4.8,fa,,,,,ushis,ushis695,2018-06-04T20:43:44.000Z,Arkansas,earthquake,,,,,reviewed,ushis,sc,Arkansas,1923-10-28
+10223,10223,02:15:00,36.0,-89.2,,4.5,fa,,,,,ushis,ushis641,2018-06-04T20:43:44.000Z,Tennessee,earthquake,,,,,reviewed,ushis,sg,Tennessee,1918-10-16
+10225,10225,23:39:00,35.5,-82.5,,5.2,fa,,,,,ushis,ushis587,2018-06-04T20:43:44.000Z,North Carolina,earthquake,,,,,reviewed,ushis,sc, Carolina,1916-02-21
+10226,10226,18:40:00,36.0,-90.0,,4.5,fa,,,,,ushis,ushis580,2018-06-04T20:43:44.000Z,Arkansas,earthquake,,,,,reviewed,ushis,bar,Arkansas,1915-12-07
+10227,10227,21:50:00,36.2,-83.7,,4.1,fa,,,,,ushis,ushis545,2018-06-04T20:43:44.000Z,eastern Tennessee,earthquake,,,,,reviewed,ushis,sc,Tennessee,1913-03-28
+10228,10228,18:28:00,34.7,-81.7,,4.8,fa,,,,,ushis,ushis544,2018-06-04T20:43:44.000Z,South Carolina,earthquake,,,,,reviewed,ushis,sc, Carolina,1913-01-01
+10229,10229,07:10:00,37.0,-89.5,,4.5,fa,,,,,ushis,ushis494,2018-06-04T20:43:44.000Z,Missouri,earthquake,,,,,reviewed,ushis,bar,Missouri,1909-10-23
+10230,10230,19:14:00,36.5,-89.8,,5.1,fa,,,,,ushis,ushis423,2018-06-04T20:43:44.000Z,Missouri,earthquake,,,,,reviewed,ushis,sc,Missouri,1903-11-04
+10231,10231,18:18:00,36.5,-89.5,,4.6,fa,,,,,ushis,ushis422,2018-06-04T20:43:44.000Z,Tennessee,earthquake,,,,,reviewed,ushis,sc,Tennessee,1903-11-04
