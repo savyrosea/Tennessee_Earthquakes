@@ -31,6 +31,8 @@ Answer the following questions:
 1. How many earthquakes are in the dataset? Which region of Tennessee seems to be the most prone to earthquakes? Which is the least prone?
 2. Do the magnitudes of earthquakes seem to follow the distribution described by Nate Silver. That is, one higher magnitude is ten times less likely to occur?
 
+![](https://github.com/savyrosea/Tennessee_Earthquakes/blob/main/pictures/Earthquakes_over_3_8.png)
+
 ### Part 3:
 Based on your findings from Parts 1 and 2, put together a presentation for the Tennessee Earthquake Preparedness Group to help them answer the following two questions:
 1. Is it advisable to concentrate our resources in the four major metropolitan areas (Memphis, Nashville, Chattanooga, Knoxville)?
@@ -38,3 +40,5 @@ Based on your findings from Parts 1 and 2, put together a presentation for the T
 2. How should we allocate resources amongst these areas?
     * Which area is likely to experience an earthquake?
     * Which area is likely to suffer loss from an earthquake if one hits?
+    
+![](https://github.com/savyrosea/Tennessee_Earthquakes/blob/main/pictures/TN_county_by_risk_of_damage.png)
