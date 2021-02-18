@@ -1,5 +1,6 @@
 # Tennessee_Earthquakes
 EDA and Geospatial Analysis of Earthquakes in TN
+
 This project is a group project in collaboration with: https://github.com/lordfrahnk and https://github.com/matthgray
 
 ## Data Question 3: Web Scraping Earthquake Data
